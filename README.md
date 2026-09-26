@@ -9,8 +9,6 @@ I am a software engineer specializing in the integration of software and hardwar
 ### 🔭 Current Focus
 - **Embedded Systems Programming:** Development of high-performance applications using modern C++ (C++17/20).
 
-<br>
-
 ### 🛠 Tech Stack
 - **Languages:** `C`, `C++`
 - **Tecnologies:** `GDB`, `Valgrind`, `AddressSanitizer` and `Cmake`.
